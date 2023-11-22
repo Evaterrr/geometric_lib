@@ -1,4 +1,4 @@
-w1313131# Math formulas
+wqw1313131# Math formulas
 ## Area
 - Circle: S = πR²
 - Rectangle: S = ab
